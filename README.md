@@ -1,6 +1,7 @@
 # gatsby-source-magento2
 
 Source plugin for pulling data into [Gatsby][gatsby] from [Magento 2.3][magento]
+Forked from mobelop/gatsby-source-magento2
 
 ## Features
 
